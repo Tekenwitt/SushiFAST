@@ -32,3 +32,7 @@ export interface Commande {
     composition: BoxeCommande[],
     prixTotal: number
     }`
+
+---
+## Mentions légales 
+https://docs.google.com/document/d/1VDeBuy6ydrEavAcq3OzH2-RBMOZ7PonMLfe_mxXYIys/edit?usp=sharing
